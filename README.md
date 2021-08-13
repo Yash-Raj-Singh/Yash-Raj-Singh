@@ -1,4 +1,4 @@
-### Hi there, I'm Yash! 👋
+## Hi there, I'm Yash! 👋
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57872757/129393940-63db4644-578d-4531-9c63-3108ee0c5715.gif" width="500" height="320" />
 
@@ -17,4 +17,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raj-Singh&theme=radical)
 
 #### Languages I Generally Use :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-Singh&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-Singh&theme=radical)
