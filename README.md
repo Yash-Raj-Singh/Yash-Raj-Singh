@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on <b>Open Source Codes</b>
 - 🤔 I’m looking for help with <b>Working with Android Sensors</b>
 - 💬 Ask me anything about <b>PC Building Tips</b>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am very much into FPS Games, Psychology, and Literature.
+- 😄 Pronouns: <b>He/His</b>
+- ⚡ Fun fact: <b>I am very much into FPS Games, Psychology, and Literature</b>
 
 ### My Github Stats :
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Raj-Singh&count_private=true&show_icons=true&theme=radical)
